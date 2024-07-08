@@ -4,6 +4,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 👀 **My interests and skills are in the field of....**
 
 
+<img align="right" width="250" height="200" src="https://github.com/prachitui/prachitui/blob/main/code.jpeg"> 
 * Machine Learning, Generative and Trustworthy AI, Deep Learning, NLP and Time Series.
 * In Signal Processing - Audio, Image and Video Processing and Computer Vision.
 
@@ -15,7 +16,8 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  **- 📫 How to reach me: ...**
   - **Gmail-** psharma.sharma36@gmail.com
 
-![screenshot](code.jpeg)
+
+
   
 <!--
 **prachitui/prachitui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
