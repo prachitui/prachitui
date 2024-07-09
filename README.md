@@ -8,7 +8,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 *  Machine Learning, Generative and Trustworthy AI, Deep Learning, NLP and Time Series.
 
-* In Signal Processing - Audio, Image and Video Processing and Computer Vision.
+* In Signal Processing - Audio, Speech, Music, Image and Video Processing and Computer Vision.
 
   
  **🔭 I am currently working on ...**
