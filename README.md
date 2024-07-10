@@ -25,7 +25,11 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  **- 📫 How to reach me: ...**
   - **Gmail-** psharma.sharma36@gmail.com
 
+### ⚡ Repositories Category wise-
+ - Audio/Speech/Music- [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition](https://github.com/prachitui/GMM-based-Speaker-Recognition)
 
+ - Image/Video- [VAE for MNIST](https://github.com/prachitui/VAE-for-Modified-National-Institute-of-Standards-and-Technology-database-MNIST-)
+ - Generative AI-  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM) [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion)
 
 
   
