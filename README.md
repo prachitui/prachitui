@@ -6,7 +6,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 <img align="right" width="250" height="200" src="https://github.com/prachitui/prachitui/blob/main/code.jpeg"> 
 
-*  Machine Learning, Generative and Trustworthy AI, Deep Learning, NLP and Time Series.
+*  Machine Learning, Generative and Trustworthy AI, Deep Learning, Data Science, NLP and Time Series.
 
 * In Signal Processing - Audio, Speech, Music, Image and Video Processing and Computer Vision.
 
