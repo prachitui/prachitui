@@ -32,6 +32,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  - **Generative AI-**  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM),  [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion), [Transformer from Scratch](https://github.com/prachitui/Transformer-from-Scratch)
 
 - **Data Science-** [Anamoly Detection](https://github.com/prachitui/Anomaly-Detection)
+- **NLP-**[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
   
 <!--
 **prachitui/prachitui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
