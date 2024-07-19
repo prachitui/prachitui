@@ -9,6 +9,15 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 *  Machine Learning, Generative and Trustworthy AI, Deep Learning, Data Science, NLP and Time Series.
 
 * In Signal Processing - Audio, Speech, Music, Image and Video Processing and Computer Vision.
+  ### ⚡ Repositories Category wise-
+ - **Audio/Speech/Music-** [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition/Detection](https://github.com/prachitui/GMM-based-Speaker-Recognition), [Speech-Recognition](https://github.com/prachitui/Speech-Recognition), [Audio Scene Analysis](https://github.com/prachitui/Audio-Scene-Analysis-UrbanSound8k)
+
+ - **Image/Video-** [VAE for MNIST](https://github.com/prachitui/VAE-for-Modified-National-Institute-of-Standards-and-Technology-database-MNIST-)
+ - **Generative AI-**  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM),  [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion), [Transformer from Scratch](https://github.com/prachitui/Transformer-from-Scratch)
+
+- **Data Science-** [Anamoly Detection](https://github.com/prachitui/Anomaly-Detection)
+- **NLP-**[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
+- **Reliable-Trustworthy AI** [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI) 
 
   
  **🔭 I am currently working on ...**
@@ -25,15 +34,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  **- 📫 How to reach me: ...**
   - **Gmail-** psharma.sharma36@gmail.com
 
-### ⚡ Repositories Category wise-
- - **Audio/Speech/Music-** [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition/Detection](https://github.com/prachitui/GMM-based-Speaker-Recognition), [Speech-Recognition](https://github.com/prachitui/Speech-Recognition), [Audio Scene Analysis](https://github.com/prachitui/Audio-Scene-Analysis-UrbanSound8k)
-
- - **Image/Video-** [VAE for MNIST](https://github.com/prachitui/VAE-for-Modified-National-Institute-of-Standards-and-Technology-database-MNIST-)
- - **Generative AI-**  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM),  [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion), [Transformer from Scratch](https://github.com/prachitui/Transformer-from-Scratch)
-
-- **Data Science-** [Anamoly Detection](https://github.com/prachitui/Anomaly-Detection)
-- **NLP-**[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
-- **Reliable-Trustworthy AI** [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI)  
+ 
 <!--
 **prachitui/prachitui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
