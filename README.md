@@ -33,7 +33,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 - **Data Science-** [Anamoly Detection](https://github.com/prachitui/Anomaly-Detection)
 - **NLP-**[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
-  
+- **Reliable-Trustworthy AI** [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI)  
 <!--
 **prachitui/prachitui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
