@@ -10,8 +10,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 * In Signal Processing - Audio, Speech, Music, Image and Video Processing and Computer Vision.
   ### ⚡ Repositories Category wise-
- - **Audio/Speech/Music-** [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition/Detection](https://github.com/prachitui/GMM-based-Speaker-Recognition), [Speech-Recognition & Gender Prediction](https://github.com/prachitui/Speech-Recognition-Gender-Prediction), [Audio Scene Analysis](https://github.com/prachitui/Audio-Scene-Analysis-UrbanSound8k),  [Speech Enhancement UNet](https://github.com/prachitui/Speech-Enhancement-Tensorflow-UNet-Softmask)
-
+ - **Audio/Speech/Music-** [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition/Detection](https://github.com/prachitui/GMM-based-Speaker-Recognition), [Speech-Recognition & Gender Prediction](https://github.com/prachitui/Speech-Recognition-Gender-Prediction), [Audio Scene Analysis](https://github.com/prachitui/Audio-Scene-Analysis-UrbanSound8k),  [Speech Enhancement UNet](https://github.com/prachitui/Speech-Enhancement-Tensorflow-UNet-Softmask), [3D Speech Enhancement](https://github.com/prachitui/3-D-Speech-Enhancement-Network-using-L3DAS-2021-dataset)
  - **Image/Video-** [VAE for MNIST](https://github.com/prachitui/VAE-for-Modified-National-Institute-of-Standards-and-Technology-database-MNIST-)
  - **Generative AI-**  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM),  [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion), [Transformer from Scratch](https://github.com/prachitui/Transformer-from-Scratch)
 
@@ -24,7 +23,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  **🔭 I am currently working on ...**
 - **Explainable Artificial Intelligence** techniques for finding Relevant Regions in Room Impulse Responses (RIRs). I will make this code public after official release of my paper.
   
-- I am also working on Audio Signal Enhancement, particulary on Text-to-Speech.
+- I am also working on TTS, ASR and 3D Speech Enhancement.
 
  **- 🌱 Here are my publication:..**   
    - [Consrtruction-sAIt: Multi-modal AI driven technologies for construction site monitoring](https://pub.dega-akustik.de/DAGA_2022/data/articles/000201.pdf)
