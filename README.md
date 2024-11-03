@@ -15,7 +15,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
  - **Generative AI-**  [Score-Based-Diffusion-Generative-Models](https://github.com/prachitui/Score-Based-Diffusion-Generative-Models) , [Generative AI with LLM](https://github.com/prachitui/Generative-AI-with-LLM),  [Idea-to-Image-Through-Stable-Diffusion](https://github.com/prachitui/Idea-to-Image-through-Stable-Diffusion), [Transformer from Scratch](https://github.com/prachitui/Transformer-from-Scratch)
 
 - **Data Science-** [Anomaly Detection](https://github.com/prachitui/Anomaly-Detection)
-- **NLP-**[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
+- **NLP-** [Fine Tuning BERT for Multi Label Classification](https://github.com/prachitui/Fine-Tuning-BERT-for-Multi-Label-Classification/tree/main) ,[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP)
 - **Reliable-Trustworthy AI** [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI)
 - **Reinforcement Learning** [Reinforcement Learning](https://github.com/prachitui/Reinforcement-Learning)
 
