@@ -16,7 +16,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 - **Data Science-** [Anomaly Detection](https://github.com/prachitui/Anomaly-Detection)
 - **NLP-** [Fine Tuning BERT for Multi Label Classification](https://github.com/prachitui/Fine-Tuning-BERT-for-Multi-Label-Classification/tree/main) ,[Sentiment Analysis](https://github.com/prachitui/Sentiment-Analysis-NLP) , [Chatbot to help with mental health](https://github.com/prachitui/Chatbot-to-help-with-mental-health)
-- **Reliable-Trustworthy AI** [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI)
+- **Explainable, Interpretable, Reliable-Trustworthy AI-** [XAI "LIME" on iris dataset](https://github.com/prachitui/Interpretable-ML-with-LIME-Explainable-AI-on-the-Iris-Dataset) , [Reliable Interpretable AI](https://github.com/prachitui/Reliable-Trustworthy-AI)
 - **Reinforcement Learning** [Reinforcement Learning](https://github.com/prachitui/Reinforcement-Learning)
 
   
