@@ -21,9 +21,8 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
   
  **🔭 I am currently working on ...**
-- **Explainable Artificial Intelligence** techniques for finding Relevant Regions in Room Impulse Responses (RIRs). I will make this code public after official release of my paper.
+- **Audio-Visual Speech Enhancement and Multimodal Learning**.
   
-- I am also working on TTS, ASR and 3D Speech Enhancement.
 
  **- 🌱 Here are my publication:..**   
    - [Consrtruction-sAIt: Multi-modal AI driven technologies for construction site monitoring](https://pub.dega-akustik.de/DAGA_2022/data/articles/000201.pdf)
