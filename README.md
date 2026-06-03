@@ -21,7 +21,7 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
   
  **🔭 I am currently working on ...**
-- **Audio-Visual Speech Enhancement and Multimodal Learning**.
+- **Audio-Visual Speech Enhancement & Separation and Multimodal Learning**.
   
 
  **- 🌱 Here are my publication:..**   
