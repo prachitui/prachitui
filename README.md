@@ -6,9 +6,9 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
 
 <img align="right" width="250" height="200" src="https://github.com/prachitui/prachitui/blob/main/code.jpeg"> 
 
-*  Machine Learning, Speech Processing, Multimodal learning,  Generative and Trustworthy AI, NLP and Time Series.
+*  Machine Learning,  Multimodal learning,  Generative and Trustworthy AI, NLP and Time Series.
 
-* In Signal Processing - Audio, Speech, Music, Image and Video Processing and Computer Vision.
+* In Signal Processing - Audio, Speech, Music and Computer Vision.
   ### ⚡ Repositories Category wise-
  - **Audio/Speech/Music-** [Diffusion Based Music Generation](https://github.com/prachitui/Diffusion-Based-Music-Generation-from-Spectrograms) ,[Fine Tuning SpeechT5 TTS model](https://github.com/prachitui/Fine-Tuning-and-Inference-on-SpeechT5-TTS-model-with-VoxPopuli-Dataset-Dutch-) ,[Fine Tuning Whisper for low resource Hindi ASR](https://github.com/prachitui/Fine-Tuning-Whisper-on-low-resource-Hindi-Language), [Music Style Transfer](https://github.com/prachitui/Music-Style-Transfer-Using-Deep-Learning) ,[Real Time transcription system using Whisper](https://github.com/prachitui/Real-Time-Transcription-using-Whisper), [Generator-Predictor-for-Audio-Signals](https://github.com/prachitui/Generator-Predictor-for-Audio-Signals-using-CNN),  [Music-Source-Separation](https://github.com/prachitui/Music_Source_Separation),  [TTS-Generation-using-Bark](https://github.com/prachitui/Text-to-Speech-Generation-using-Bark), [GMM-based-Speaker-Recognition/Detection](https://github.com/prachitui/GMM-based-Speaker-Recognition), [Speech-Recognition & Gender Prediction](https://github.com/prachitui/Speech-Recognition-Gender-Prediction), [Audio Scene Analysis](https://github.com/prachitui/Audio-Scene-Analysis-UrbanSound8k),  [Speech Enhancement UNet](https://github.com/prachitui/Speech-Enhancement-Tensorflow-UNet-Softmask), [3D Speech Enhancement](https://github.com/prachitui/3-D-Speech-Enhancement-Network-using-L3DAS-2021-dataset)
  - **Image/Video-** [VAE for MNIST](https://github.com/prachitui/VAE-for-Modified-National-Institute-of-Standards-and-Technology-database-MNIST-)
