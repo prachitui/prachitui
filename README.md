@@ -25,6 +25,9 @@ Hi, I am Prachi Sharma, welcome to my GitHub page.
   
 
  **- 🌱 Here are my publication:..**   
+
+   
+   - [How Machines Perceive Rooms - Regions of Relevance in Room Impulse Responses](https://ieeexplore.ieee.org/document/10890456)
    - [Consrtruction-sAIt: Multi-modal AI driven technologies for construction site monitoring](https://pub.dega-akustik.de/DAGA_2022/data/articles/000201.pdf)
    - [IDMT-Traffic: An Open Benchmark Dataset for Acoustic Traffic Monitoring Research](https://arxiv.org/abs/2104.13620)
 
